@@ -28,3 +28,4 @@ A aplicação faz uma analise dos arquivos com extensão `.dat` que estiverem no
 3. ler arquivos com dados na mesma linha.
 4. Caso um vendedor faça uma venda e não esteja registrado, a apicação avisa que esse não consta nos .registros, e o valor dá venda não será atribuido a nenhum vendedor.
 5. Caso, dentro dos detalhamentos dos produtos vendidos, falte algum dos critérios a aplicação dá um aviso e  continua a calcular o valor da venda ignorando este.
+6. A Leitura de arquivos é feita em tempo real, então os arquivos que forem colocados no diretório de `\data\in` vão ser lidos instantaneamente;

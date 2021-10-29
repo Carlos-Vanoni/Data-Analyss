@@ -6,7 +6,7 @@ A aplicação faz uma analise dos arquivos com extensão `.dat` que estiverem no
 
 ## Antes de Usar
 
-Vá para seu `%HOMEPATH%` rie um repositório `data`, com um repositório `in` e um repositório `out` dentro.
+Vá para seu `%HOMEPATH%` crie um repositório `data`, com um repositório `in` e um repositório `out` dentro.
 
 ### Formato dos dados que são lidos
 1. *Saleman* = `001çCPFçNameçSalary`

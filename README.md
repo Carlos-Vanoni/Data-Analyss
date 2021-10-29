@@ -6,7 +6,8 @@ A aplicação faz uma analise dos arquivos com extensão `.dat` que estiverem no
 
 ## Antes de Usar
 
-Vá para seu `%HOMEPATH%` crie um repositório `data`, com um repositório `in` e um repositório `out` dentro.
+1. Vá para seu `%HOMEPATH%` crie um repositório `data`, com um repositório `in` e um repositório `out` dentro.
+2. Vá na aplicação `src > main > java > com > carlosvanoni > challange > dao > repository` e logo no início, troque a palavra *%HOMEPATH%* para o path do seu HOME, onde está o repositório `/data`. 
 
 ### Formato dos dados que são lidos
 1. *Saleman* = `001çCPFçNameçSalary`

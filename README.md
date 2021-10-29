@@ -25,5 +25,5 @@ Vá para seu `%HOMEPATH%` crie um repositório `data`, com um repositório `in` 
 1. Ler arquivos de até `30kb` (Esse valor pode ser ajustado na classe de repositório).
 2. Ler arquivos com nomes com `ç`.
 3. ler arquivos com dados na mesma linha.
-4. Caso um vendedor faça uma venda e não esteja registrado, a apicação avisa que esse vendedor não consta nos .registros, mas não é interrompida.
+4. Caso um vendedor faça uma venda e não esteja registrado, a apicação avisa que esse não consta nos .registros, e o valor dá venda não será atribuido a nenhum vendedor.
 5. Caso, dentro dos detalhamentos dos produtos vendidos, falte algum dos critérios a aplicação dá um aviso e  continua a calcular o valor da venda ignorando este.
